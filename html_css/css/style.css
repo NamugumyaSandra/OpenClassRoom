@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, serif;
+    background-color: rgb(248, 255, 205);
+}
+
+h1, h2 {
+    font-family: sans-serif;
+}
+
+li {
+    line-height: 1.5em;
+    text-transform: capitalize; 
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 132, 255);
+}
+
+a:visited {
+    color: rgb(131, 6, 131);
+}
+
+a:hover {
+    text-decoration: unset;
+}
